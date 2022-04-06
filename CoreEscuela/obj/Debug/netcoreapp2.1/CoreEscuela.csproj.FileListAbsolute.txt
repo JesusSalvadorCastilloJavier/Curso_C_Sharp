@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\bin\Debug\netcoreapp2.1\CoreEscuela.deps.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\bin\Debug\netcoreapp2.1\CoreEscuela.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\bin\Debug\netcoreapp2.1\CoreEscuela.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\bin\Debug\netcoreapp2.1\CoreEscuela.dll
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\bin\Debug\netcoreapp2.1\CoreEscuela.pdb
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.dll
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\CoreEscuela\obj\Debug\netcoreapp2.1\CoreEscuela.pdb
