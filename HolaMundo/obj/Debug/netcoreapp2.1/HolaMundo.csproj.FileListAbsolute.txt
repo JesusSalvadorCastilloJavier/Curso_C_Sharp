@@ -1,0 +1,11 @@
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.deps.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.runtimeconfig.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.runtimeconfig.dev.json
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.dll
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\bin\Debug\netcoreapp2.1\HolaMundo.pdb
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.csprojAssemblyReference.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.dll
+C:\Users\DELL\OneDrive\Documentos\Cursos_Online\Cursos_Platzi\Curso_C_Sharp\HolaMundo\obj\Debug\netcoreapp2.1\HolaMundo.pdb
